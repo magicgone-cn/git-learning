@@ -38,4 +38,5 @@
 # 6. 追加提交(amend commit)
 # 7. 上传远程仓库(push)
 # 8. 解决冲突(merge or rebase)
+此处有冲突
 # 9. 再次上传
