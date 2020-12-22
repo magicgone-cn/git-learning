@@ -103,7 +103,9 @@
 
 ## merge
 
+> 使用merge解决冲突
 
+![image-20201222204603794](README.assets/image-20201222204603794.png)
 
 # 9. 再次上传
 
